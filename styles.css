@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: #0f0f16;
+  background-color: #17522ea7;
   color: #fff;
   display: flex;
   flex-direction: column;
@@ -35,7 +35,7 @@ body {
 /* Sidebar */
 .sidebar {
   width: 80px;
-  background-color: #000;
+  background-color: #043312a8;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -47,7 +47,7 @@ body {
 }
 
 .sidebar .logo {
-  background: #e91e63;
+  background: #a5f48d;
   color: #fff;
   font-size: 24px;
   width: 40px;
@@ -106,7 +106,7 @@ body {
 }
 
 .main .btn {
-  background-color: #e91e63;
+  background-color: #91ea88;
   color: white;
   padding: 12px 24px;
   border: none;
