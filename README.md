@@ -4,7 +4,7 @@
 
 **Desenvolvedora FullStack**
 
-Meu nome é Vitória Helena, tenho 17 anos e sou natural de Fortaleza (CE), atualmente estou no 3 ano do ensino médio e faço um curso técnico de Desenvolvimentos de Sistemas. 
+Meu nome é Vitória Helena, tenho 17 anos e sou natural de Fortaleza (CE), atualmente estou no 3 ano do ensino médio e faço curso técnico de Desenvolvimentos de Sistemas. 
 Sou apaixonada por tecnologia.
 
 <p align="left">
